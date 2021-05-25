@@ -1,2 +1,0 @@
-# Calculator
-Calculator in php
